@@ -59,5 +59,8 @@ Thumbs.db
 # Bundled JDK
 jdk-23.0.1/
 
+# JRE installer
+JRE-Windows-x64.exe
+
 # Resources folder 
 tms/src/main/resources/
