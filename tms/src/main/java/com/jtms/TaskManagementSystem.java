@@ -68,7 +68,14 @@ class TaskManager {
 
     public TaskManager() {
         try {
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/task_management", "root", "REDACTED");
+            String dbUrl = System.getenv("DB_URL") != null ? 
+                System.getenv("DB_URL") : "jdbc:mysql://localhost:3306/task_management";
+            String dbUser = System.getenv("DB_USER") != null ? 
+                System.getenv("DB_USER") : "root";
+            String dbPassword = System.getenv("DB_PASSWORD") != null ? 
+                System.getenv("DB_PASSWORD") : "";
+            
+            connection = DriverManager.getConnection(dbUrl, dbUser, dbPassword);
         } catch (SQLException e) {
             e.printStackTrace();
         }
