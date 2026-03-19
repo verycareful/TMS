@@ -1,5 +1,9 @@
 # Task Management System (TMS)
+[![Java](https://img.shields.io/badge/Java-8+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
+[![Maven](https://img.shields.io/badge/Maven-3.6+-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
+[![License: Polyform NC](https://img.shields.io/badge/License-Polyform%20NC%201.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat-square)](.)
 > **⚠️ Legacy Learning Project** — This is my first Java project, created as a learning exercise. It is **not actively maintained** and should be used for educational purposes only.
 
 A Java-based Task Management System with a modern UI built using FlatLaf and DarkLaf themes.
@@ -118,3 +122,16 @@ While this is a legacy project, educational improvements and bug fixes are welco
 - Consider refactoring to use modern frameworks (Spring Boot, JavaFX)
 - GUI code could be improved with better separation of concerns
 - Database layer could use JPA/Hibernate instead of raw JDBC
+
+## License
+
+Copyright © 2026 Sricharan Suresh (github.com/verycareful)
+
+This project is licensed under the **[Polyform Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)**.
+You may use, copy, and modify this software for non-commercial purposes only.
+Commercial use of any kind is prohibited without explicit written permission from the author.
+
+See the [LICENSE](LICENSE) file for the full license text, or visit
+[https://polyformproject.org/licenses/noncommercial/1.0.0/](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+
+For commercial licensing inquiries, contact [sricharanc03@gmail.com](mailto:sricharanc03@gmail.com).
