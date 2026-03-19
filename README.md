@@ -4,6 +4,7 @@
 
 [![License: Polyform NC](https://img.shields.io/badge/License-Polyform%20NC%201.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat-square)](.)
+
 > **⚠️ Legacy Learning Project** — This is my first Java project, created as a learning exercise. It is **not actively maintained** and should be used for educational purposes only.
 
 A Java-based Task Management System with a modern UI built using FlatLaf and DarkLaf themes.
