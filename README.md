@@ -82,16 +82,8 @@ This project previously contained hardcoded database credentials in the source c
 
 ## 📄 License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
-
-You are free to:
-- 👁️ View and study the code
-- 📝 Modify it for educational purposes
-- 🔄 Share it with attribution
-
-With restrictions:
-- ❌ Cannot use for commercial purposes
-- ❌ Must give appropriate credit
+This project is licensed under the [Polyform Noncommercial License 1.0.0
+](LICENSE).
 
 See [LICENSE](LICENSE) file for full details.
 
